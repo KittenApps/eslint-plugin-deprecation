@@ -37,6 +37,7 @@ export default createRule<Options, MessageIds>({
     type: 'problem',
     docs: {
       description: 'Do not use deprecated APIs.',
+      // @ts-ignore
       requiresTypeChecking: true,
     },
     messages: {
