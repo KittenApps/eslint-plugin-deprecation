@@ -16,6 +16,7 @@
     "ct": "git-cz",
     "prebuild": "rimraf dist",
     "build": "tsc --build tsconfig.build.json",
+    "prepare": "npm run build",
     "build:w": "npm run build -- --watch",
     "test": "jest",
     "test:w": "npm run test -- --watch",
