@@ -1,6 +1,6 @@
 {
   "name": "@silizia/eslint-plugin-deprecation",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "ESLint rule that reports usage of deprecated code",
   "author": "Alex Malkevich <malkevich.alex@gmail.com>",
   "license": "LGPL-3.0-or-later",
